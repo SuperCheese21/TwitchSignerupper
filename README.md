@@ -7,3 +7,6 @@ The reason for making such a script was to expose current issue(s) in the signup
 ## Installation
  - Requires python2.6+, or python3.3+
  - Required python packages: selenium, pydub, SpeechRecognition
+
+
+Note: This project is intended for educational purposes and I do not condonse the use of this product for malicious intent. 
